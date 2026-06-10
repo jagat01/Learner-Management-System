@@ -252,7 +252,7 @@ mvn test
 
 ---
 
-## 💡 Key Design Decisions
+## 💡  Key Design Decisions
 
 See [`docs/Design_Notes.md`](docs/Design_Notes.md) for a detailed explanation of why ArrayList was chosen, how static members are used, and the inheritance hierarchy.
 
